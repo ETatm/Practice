@@ -33,3 +33,5 @@
 *.db
 *.opendb
 .vs/
+Practice/Debug/
+Debug/
